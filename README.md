@@ -64,7 +64,7 @@ ___
 <img width="915" height="459" alt="image" src="https://github.com/user-attachments/assets/c6c85237-0fc8-462a-9ea1-3e6987f07bb0" />
 
 
-#### Repository based on COMPOSARC TEMPLATE ci_temp A₽p html [hимик тАбЛи©А℞ мен'Де Лёв](https://aibolem.github.io/00/)
+#### Repository based on COMPOSARC TEMPLATE [ci_temp webb A₽p](https://composarc.github.io/ci_temp/app.html) (მიnµmŒИTASCIIS5) .html  [hимик тАбЛи©А℞ мен'Де Лёв](https://aibolem.github.io/00/)
 
 Temperature Visualisation
 ----------------------
