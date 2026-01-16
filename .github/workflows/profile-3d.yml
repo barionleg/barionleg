@@ -17,6 +17,7 @@ jobs:
       - uses: barionleg/github-profile-3d-contrib@v0.9.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.Codeberg }}
           USERNAME: ${{ github.barionleg }}
       - name: Commit & Push
         run: |
